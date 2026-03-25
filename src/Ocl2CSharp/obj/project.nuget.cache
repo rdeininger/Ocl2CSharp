@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8U4Sg062Pjs=",
+  "dgSpecHash": "ZMzoKahRWrk=",
   "success": true,
   "projectFilePath": "D:\\Projects\\External\\Ocl2CSharp\\src\\Ocl2CSharp\\Ocl2CSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rdeininger\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
   "logs": []
 }
