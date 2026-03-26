@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ocl2CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698aefc7218c795944d9f646200dba050c381137")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bb699e4e7466802c05b5e114dc802c5f6afe1de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ocl2CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ocl2CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
